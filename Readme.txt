@@ -8,6 +8,6 @@ Steps to run the project
 -dotnet ef database update (creates tables)
 -dotnet run seeddata (seeds the database with some data)
 
-I hope you liked this API :)
+Enjoy!
 
-Let me know if there is anything that needs to be changed.
+I hope you liked this API :)
